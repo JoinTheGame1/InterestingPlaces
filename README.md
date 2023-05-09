@@ -12,18 +12,15 @@ SimpleFactory, Caretaker
 * При запуске приложения происходит загрузка данных с RestAPI или же, в случае отсутствия интернет-подключения, с диска пользователя сохраненных при прошлой загрузке данных.
 * Стартовый экран - категории всех интересных мест Приморья.
 
-![1](https://user-images.githubusercontent.com/81301775/236991026-6c676800-c674-495d-b69c-bddccf68eb7f.png)
+![1](https://user-images.githubusercontent.com/81301775/236993383-9b493cdc-314d-46bb-a9d9-d61e8571738b.png)
 
 * При тапе на категорию попадаем на экран интересных мест определенной категории.
 
-![2](https://user-images.githubusercontent.com/81301775/236991277-70d6507a-5be5-4bee-90d0-741b6b4e330f.png)
+![2](https://user-images.githubusercontent.com/81301775/236993627-d4c98a24-eadc-4dbb-a8b7-b1f91fd949df.png)
 
 * При тапе на конкретное место попадаем на экран подробной информации. Если у места ограничено возможное время посещения, то появится информация о графике работы. Тапаем на "Проложить маршрут" и попадаем в приложение 2ГИС, если оно установлено у пользователя, либо попадаем в AppStore на страницу с 2ГИС.
 
-![3](https://user-images.githubusercontent.com/81301775/236992343-a032f290-da56-417c-ad79-5ae2e4cf3192.png)
+![3](https://user-images.githubusercontent.com/81301775/236993677-e504e02e-4341-4018-903a-abd7d04f7c32.png) ![4](https://user-images.githubusercontent.com/81301775/236993706-aa6fca77-6597-4581-b5fc-4b2bb8cf7a39.png)
 
-![4](https://user-images.githubusercontent.com/81301775/236992392-72b24b97-5b6b-49c5-9bb6-d7e6f4194a33.png)
+![5](https://user-images.githubusercontent.com/81301775/236993907-a0b196b2-d94c-415c-a8b2-360226a88945.png) ![6](https://user-images.githubusercontent.com/81301775/236993967-d6a5cf93-b6db-408c-b200-1d07f0412806.png)
 
-![5](https://user-images.githubusercontent.com/81301775/236992435-a452bd20-8da5-44a1-a1d3-63358972431d.png)
-
-![6](https://user-images.githubusercontent.com/81301775/236992457-3f7e9ed9-7ec8-4bd9-ad83-2c321c8d7a93.png)
