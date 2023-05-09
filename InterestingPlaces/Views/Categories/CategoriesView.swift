@@ -17,9 +17,7 @@ struct CategoriesView: View {
                     label: {
                         CategoryCell(viewModel: CategoryCellViewModel(category: category))
                     })
-                .listRowSeparator(.hidden)
             }
-            .listStyle(.plain)
             .navigationBarTitle(Text(Constants.navBarTitle))
             .onAppear {
                 viewModel.fetch()

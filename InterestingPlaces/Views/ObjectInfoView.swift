@@ -13,7 +13,7 @@ struct ObjectInfoView: View {
 
     var body: some View {
         ScrollView(showsIndicators: false) {
-            VStack(spacing: 8) {
+            VStack(spacing: 16) {
                 closeInfoText
                 objectImage
                 objectNameText
@@ -26,7 +26,6 @@ struct ObjectInfoView: View {
                         }
                     }
                     .modifier(RoundedGradientBorder(isAnimating: animateBorder))
-                    .padding(.vertical, 12)
                 }
                 routeButton
             }

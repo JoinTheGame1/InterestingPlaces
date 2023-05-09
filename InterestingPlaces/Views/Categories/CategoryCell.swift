@@ -21,5 +21,6 @@ struct CategoryCell: View {
                     .foregroundColor(.white)
             }
         }
+        .padding(.vertical, 4)
     }
 }

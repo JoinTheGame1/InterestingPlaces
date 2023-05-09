@@ -8,6 +8,5 @@ extension KFImage {
             .scaledToFill()
             .frame(width: width, height: height)
             .cornerRadius(cornerRadius)
-            .shadow(color: .label, radius: 5)
     }
 }

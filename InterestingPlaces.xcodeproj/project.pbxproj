@@ -16,7 +16,6 @@
 		F19662262A0767B5002D5109 /* GradientBorderedStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19662252A0767B5002D5109 /* GradientBorderedStyle.swift */; };
 		F196622A2A077DE5002D5109 /* BusinessHoursFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19662292A077DE5002D5109 /* BusinessHoursFactory.swift */; };
 		F196622D2A083E35002D5109 /* RoundedGradientBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F196622C2A083E35002D5109 /* RoundedGradientBorder.swift */; };
-		F19662342A088135002D5109 /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19662332A088135002D5109 /* Color+Ext.swift */; };
 		F199160E2A02C416005F8A11 /* InterestingPlacesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F199160D2A02C416005F8A11 /* InterestingPlacesApp.swift */; };
 		F19916102A02C416005F8A11 /* CategoriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F199160F2A02C416005F8A11 /* CategoriesView.swift */; };
 		F19916122A02C41A005F8A11 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F19916112A02C41A005F8A11 /* Assets.xcassets */; };
@@ -46,7 +45,6 @@
 		F19662252A0767B5002D5109 /* GradientBorderedStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBorderedStyle.swift; sourceTree = "<group>"; };
 		F19662292A077DE5002D5109 /* BusinessHoursFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusinessHoursFactory.swift; sourceTree = "<group>"; };
 		F196622C2A083E35002D5109 /* RoundedGradientBorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedGradientBorder.swift; sourceTree = "<group>"; };
-		F19662332A088135002D5109 /* Color+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
 		F199160A2A02C416005F8A11 /* InterestingPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InterestingPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F199160D2A02C416005F8A11 /* InterestingPlacesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterestingPlacesApp.swift; sourceTree = "<group>"; };
 		F199160F2A02C416005F8A11 /* CategoriesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesView.swift; sourceTree = "<group>"; };
@@ -80,7 +78,6 @@
 		F196621F2A075F3F002D5109 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				F19662332A088135002D5109 /* Color+Ext.swift */,
 				F19662202A075F59002D5109 /* KFImage+Ext.swift */,
 				F19662252A0767B5002D5109 /* GradientBorderedStyle.swift */,
 			);
@@ -309,7 +306,6 @@
 				F196622A2A077DE5002D5109 /* BusinessHoursFactory.swift in Sources */,
 				F196621C2A072262002D5109 /* ObjectInfoView.swift in Sources */,
 				F19662262A0767B5002D5109 /* GradientBorderedStyle.swift in Sources */,
-				F19662342A088135002D5109 /* Color+Ext.swift in Sources */,
 				F199163E2A06CB17005F8A11 /* ObjectsViewModel.swift in Sources */,
 				F19662152A06EC1B002D5109 /* Category.swift in Sources */,
 				F19662192A06EC80002D5109 /* Geo.swift in Sources */,
